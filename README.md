@@ -1,4 +1,4 @@
-# CS6308 - JAVA PROGRAMMING
+# CS23304 JAVA-PROGRAMMING
 
 Welcome to the repository for CS6308 - Java Programming! This repository houses course materials, lab experiments, and report records.
 
@@ -22,7 +22,7 @@ Upon completion of the course, students will be able to:
 
 ## Syllabus
 
-| Module | Name                                 | Content                                                                                                                                                                                           |
+| Unit | Name                                 | Content                                                                                                                                                                                           |
 | ------ | ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1.     | Introduction to Java       | Introduction to Java – JVM - Data Types, Variables, Operators, Expressions – Control flow Statements – Methods - Arrays – Classes and Objects – Constructors - Access Specifiers – Static members – this – constants – String Class – Working with Data and Time API                                                                                   |
 | 2.    |  Polymorphism and Inheritance                 | Overloading Methods – Static, Nested, and Inner Classes – Inheritance – super Classes and sub-classes – Overriding – Downcasting – instanceof Operator – Abstract Classes – final classes – Packages – Interfaces                                |
@@ -52,7 +52,7 @@ Upon completion of the course, students will be able to:
 
 ### Acknowledgment
 
-A special thank you to our college faculty, [Dr. Jayachitra. V P](http://www.ct.mitindia.edu/dct/#/home/people/staffs/profile/67068), Assistant Professor (Sl. Grade), Department of Computer Technology, Anna University, for their guidance and support throughout the course.
+A special thank you to our college faculty, [Dr P Pabitha ](https://annauniv.irins.org/profile/117769), Assistant Professor , Department of Computer Technology, Anna University, for their guidance and support throughout the course.
 
 ---
 
