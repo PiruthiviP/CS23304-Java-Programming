@@ -24,21 +24,18 @@ Upon completion of the course, students will be able to:
 
 | Module | Name                                 | Content                                                                                                                                                                                           |
 | ------ | ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| I      | Fundamentals of Java Language        | Introduction to Java, Java basics, Variables, Operators, Expressions, Control flow Statements, Methods, Arrays                                                                                    |
-| II     | Java Objects - 1                     | Classes and Objects, Constructor, Destructor, Static instances, 'this' Keyword, Constants, Thinking in Objects, String class, Text I/O                                                            |
-| III    | Java Objects - 2                     | Inheritance and Polymorphism, Super classes and sub classes, Overriding, Object class and its methods, Casting, instanceof, ArrayList, Abstract Classes, Interfaces, Packages, Exception Handling |
-| IV     | GUI                                  | Creating UI, Frames, Layout Manager, Panels, Components, Event Driven Programming                                                                                                                 |
-| V      | I/O Streams                          | I/O Streams, Binary I/O                                                                                                                                                                           |
-| VI     | Multithreading                       | Multithreading – States, Synchronization, Avoiding Deadlocks                                                                                                                                      |
-| VII    | Networking and Database Connectivity | Java Networking – Inet address class, Sockets, JDBC                                                                                                                                               |
-| VIII   | Frameworks                           | Collections Frameworks – Lists, Vector and Stack classes, Generics                                                                                                                                |
-| IX     | Web Development                      | Applets, Servlets / JSP                                                                                                                                                                           |
-| X      | Web Development                      | JSF, RMI, Web Services                                                                                                                                                                            |
+| 1.     | Introduction to Java       | Introduction to Java – JVM - Data Types, Variables, Operators, Expressions – Control flow Statements – Methods - Arrays – Classes and Objects – Constructors - Access Specifiers – Static members – this – constants – String Class – Working with Data and Time API                                                                                   |
+| 2.    |  Polymorphism and Inheritance                 | Overloading Methods – Static, Nested, and Inner Classes – Inheritance – super Classes and sub-classes – Overriding – Downcasting – instanceof Operator – Abstract Classes – final classes – Packages – Interfaces                                |
+| 3.   | Exception Handling and Multithreading                  | Exception Handling – Java’s Built-in Exceptions – User-defined Exception – Assertions – Multithreading – Priorities – Synchronization – Avoiding Deadlocks – Wrappers – Autoboxing and Unboxing |
+| 4.   | File Streams and Database              | Java I/O – Reading and Writing Files – Regular Expressions – Streams API – Object Serialization – Generic Collections – Generic Classes – Lists, Sets, Maps – Generic Methods – Lambda expressions – Databases with JDBC                                                                                                                |
+| 5.      |Web Development and Frameworks                      | Event handling: Event, Listeners, and Adapter classes – Anonymous Inner Classes – Abstract Windowing Toolkit (AWT): Button, Label, Checkbox, Checkbox Group, Text Field, Text Area, Choice, List, Menu, Panel, Scrollbar, and Swing components – Layout managers – Complex Components – Java Servlets – Apache Tomcat – Java Web Framework – Spring Boot                                                                                                                                                                         |
+
 
 ## Textbooks
 
-1. Y. Daniel Liang, “Introduction to Java Programming and Data Structures, Comprehensive Version”, 11th Edition, Pearson Education, 2018.
+1. Y. Daniel Liang, “Introduction to Java Programming and Data Structures, Comprehensive Version”, 12th Edition, Pearson Education, 2024.
 2. Herbert Schildt, “Java: The Complete Reference”, 11th Edition, McGraw-Hill Education, 2018.
+
 
 ## References
 
@@ -63,13 +60,13 @@ A special thank you to our college faculty, [Dr. Jayachitra. V P](http://www.ct.
 
 For any inquiries or contributions, please contact me
 
-[Vijai Suria M](mailto:vijaisuriam@gmail.com), <br>
-2021503568, <br>
+[Piruthivi P](mailto:vijaisuriam@gmail.com), <br>
+2023503049, <br>
 Dept. of Computer Technology, <br>
 MIT Campus, Anna University, <br>
 Chennai
 
 ### Contact Links
 
-- [LinkedIn](https://www.linkedin.com/in/vijaisuria)
-- [Personal Portfolio](https://vijaisuria.github.io/)
+- [LinkedIn](https://www.linkedin.com/in/piruthivi-p-809934284/)
+
