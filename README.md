@@ -46,7 +46,8 @@ Upon completion of the course, students will be able to:
 ## Web References
 
 1. [NPTEL](https://nptel.ac.in/)
-2. [MIT OCW](https://ocw.mit.edu/)
+2. [GEEKS FOR GEEKS](https://www.geeksforgeeks.org/java/)
+3. [javatpoint](https://www.javatpoint.com/java-tutorial)
 
 ---
 
