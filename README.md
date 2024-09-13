@@ -1,6 +1,6 @@
 # CS23304 JAVA-PROGRAMMING
 
-Welcome to the repository for CS6308 - Java Programming! This repository houses course materials, lab experiments, and report records.
+Welcome to the repository for CS23304- Java Programming! This repository houses course materials, lab experiments, and report records.
 
 ## Objectives
 
